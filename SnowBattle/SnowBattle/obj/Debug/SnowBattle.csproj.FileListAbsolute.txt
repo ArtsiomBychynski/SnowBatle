@@ -1,0 +1,10 @@
+C:\Users\jawa\Desktop\куровой последняя версия\SnowBattle\SnowBattle\bin\Debug\SnowBattle.exe.config
+C:\Users\jawa\Desktop\куровой последняя версия\SnowBattle\SnowBattle\bin\Debug\SnowBattle.exe
+C:\Users\jawa\Desktop\куровой последняя версия\SnowBattle\SnowBattle\bin\Debug\SnowBattle.pdb
+C:\Users\jawa\Desktop\куровой последняя версия\SnowBattle\SnowBattle\obj\Debug\SnowBattle.GameForm.resources
+C:\Users\jawa\Desktop\куровой последняя версия\SnowBattle\SnowBattle\obj\Debug\SnowBattle.LoadForm.resources
+C:\Users\jawa\Desktop\куровой последняя версия\SnowBattle\SnowBattle\obj\Debug\SnowBattle.Properties.Resources.resources
+C:\Users\jawa\Desktop\куровой последняя версия\SnowBattle\SnowBattle\obj\Debug\SnowBattle.csproj.GenerateResource.Cache
+C:\Users\jawa\Desktop\куровой последняя версия\SnowBattle\SnowBattle\obj\Debug\SnowBattle.exe
+C:\Users\jawa\Desktop\куровой последняя версия\SnowBattle\SnowBattle\obj\Debug\SnowBattle.pdb
+C:\Users\jawa\Desktop\куровой последняя версия\SnowBattle\SnowBattle\obj\Debug\SnowBattle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\jawa\Desktop\куровой последняя версия\Server\Server\bin\Debug\Server.exe.config
+C:\Users\jawa\Desktop\куровой последняя версия\Server\Server\bin\Debug\Server.exe
+C:\Users\jawa\Desktop\куровой последняя версия\Server\Server\bin\Debug\Server.pdb
+C:\Users\jawa\Desktop\куровой последняя версия\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\jawa\Desktop\куровой последняя версия\Server\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\jawa\Desktop\куровой последняя версия\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\jawa\Desktop\куровой последняя версия\Server\Server\obj\Debug\Server.exe
+C:\Users\jawa\Desktop\куровой последняя версия\Server\Server\obj\Debug\Server.pdb
+C:\Users\jawa\Desktop\куровой последняя версия\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
